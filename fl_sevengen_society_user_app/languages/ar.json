@@ -1,0 +1,371 @@
+{
+    "exit_app": {
+        "exit_text": "اضغط مرة أخرى للخروج"
+    },
+    "add_complaint": {
+        "personal": "شخصي",
+        "community": "مجتمع",
+        "add_complaint": "إضافة شكوى",
+        "submit_complaint": "تقديم الشكوى",
+        "complaint_raised": "رفعت الشكوى!",
+        "text": "سيتم إخطار المسؤول وسيعود إليك قريبًا",
+        "okay": "تمام",
+        "brief_your_complaint": "واختصر شكواك",
+        "complaint_type": "نوع الشكوى",
+        "enter_complaint_type": "أدخل نوع الشكوى",
+        "attach_photo": "إرفاق صورة (اختياري)",
+        "add_image": "إضافة صورة",
+        "camera": "آلة تصوير",
+        "gallery": "صالة عرض",
+        "remove": "يزيل"
+    },
+    "login": {
+        "login": "تسجيل الدخول",
+        "verification_text": "*سنرسل OTP للتحقق",
+        "enter_mobile_number": "أدخل رقم الهاتف المحمول",
+        "please_text": "مرحبا المستخدمين يرجى تسجيل الدخول إلى حسابك",
+        "LOGIN": "تسجيل الدخول"
+    },
+    "otp": {
+        "didnt_recived": "لم يستلم؟",
+        "resend": "إعادة إرسال",
+        "verify": "يؤكد",
+        "please_wait": "انتظر من فضلك",
+        "please_text": "الرجاء إدخال OTP سنرسل إليك على هاتفك المحمول NO +91 1234567890",
+        "OTP_VERIFICATION": "التحقق من OTP"
+    },
+    "register": {
+        "please_text": "مرحبا المستخدمين يرجى إنشاء حسابك",
+        "REGISTER": "يسجل",
+        "register": "يسجل",
+        "email_address": "عنوان البريد الإلكتروني",
+        "mobile_number": "رقم الهاتف المحمول",
+        "user_name": "اسم المستخدم"
+    },
+    "book_amenities_proceed": {
+        "book_amenity": "كتاب الراحة",
+        "select_dates": "حدد التواريخ",
+        "select_time": "حدد الوقت",
+        "proceed_to_pay": "تابع الدفع",
+        "amount_to_pay": "مبلغ الدفع",
+        "total_day": "اليوم الكلي",
+        "day": "يوم",
+        "from": "من",
+        "to": "ل",
+        "select_date": "حدد تاريخ",
+        "paid": "مدفوع",
+        "maximum_Capacity": "السعة القصوى",
+        "person": "شخص",
+        "book_before_least": "احجز من قبل على الأقل",
+        "days": "أيام",
+        "per_day": "في اليوم"
+    },
+    "booked_amenities": {
+        "booked_amenities": "وسائل الراحة المحجوزة",
+        "book_amenity": "كتاب الراحة",
+        "confirmed_by": "موكد بواسطة",
+        "booked_by": "حجزت من قبل",
+        "canceled_by": "ألغيت بواسطة"
+    },
+    "call": {
+        "calling": "الدعوة ..."
+    },
+    "calling": {
+        "call_gate": "بوابة الاتصال",
+        "deny": "ينكر",
+        "swipe_up": "التمرير لأعلى \n للسماح",
+        "guest_waiting_gate": "ضيف ينتظر عند البوابة"
+    },
+    "chats": {
+        "chats": "الدردشات",
+        "residents": "السكان"
+    },
+    "complaint_detail": {
+        "community_complaint": "شكوى المجتمع",
+        "complaint_image": "صورة الشكوى",
+        "recent_comments": "احدث التعليقات",
+        "write_your_comment": "اكتب تعليقك",
+        "ago": "منذ",
+        "reopen": "إعادة فتح",
+        "mark_as_resolved": "علامة كما تم حلها",
+        "resolved_by": "حل بواسطة",
+        "raised_by": "أرتفع بواسطة"
+    },
+    "credit_card": {
+        "credit_card": "بطاقة إئتمان",
+        "continue": "يكمل",
+        "card_number": "رقم البطاقة",
+        "enter_card_number": "أدخل رقم البطاقة",
+        "expire_date": "تاريخ انتهاء الصلاحية",
+        "CVV": "cvv",
+        "name_on_card": "الاسم على البطاقة",
+        "enter_name_card": "أدخل الاسم على البطاقة"
+    },
+    "help_desk": {
+        "personal": "شخصي",
+        "community": "مجتمع",
+        "help_desk": "مكتب المساعدة",
+        "raise_new_complaint": "رفع شكوى جديدة",
+        "resolved_by": "حل بواسطة",
+        "raised_by": "أرتفع بواسطة"
+    },
+    "home": {
+        "members": "أعضاء",
+        "connect_member": "ربط عضو المجتمع",
+        "visitors": "الزائرين",
+        "manage_entry": "إدارة دخول الزوار",
+        "notice_board": "لوح الإعلانات",
+        "society_announcement": "إعلان المجتمع وإشعار الحدث",
+        "payment": "قسط",
+        "direct_payment_due": "الدفع المباشر للمجتمع مستحق",
+        "book_amenities": "وسائل الراحة الكتاب",
+        "pre_book_amenities": "مرافق المجتمع قبل الكتاب",
+        "help_desk": "مكتب المساعدة",
+        "complaint_suggestion": "الشكوى والاقتراح",
+        "community": "مجتمع",
+        "new": "جديد"
+    },
+    "members": {
+        "members": "أعضاء",
+        "flat_no": "شقة لا",
+        "block_no:": "كتلة لا",
+        "call": "يتصل",
+        "chat": "محادثة",
+        "member": "عضو",
+        "admin": "مسؤل",
+        "committee": "لجنة"
+    },
+    "messages": {
+        "type_text_here": "اكتب النص هنا...."
+    },
+    "notice_board": {
+        "notice_board": "لوح الإعلانات",
+        "new": "جديد",
+        "post_by": "نشر بواسطة"
+    },
+    "notification": {
+        "notification": "إشعار",
+        "no_new_notification": "لا يوجد إشعار جديد",
+        "removed_from_notification": "تمت إزالته من الإخطار"
+    },
+    "onboarding": {
+        "text_1": "تحسين سلامة عائلتك",
+        "text_2": "احصل على موظفي الخدمة على عتبة داركم",
+        "text_3": "احصل على إخطار حول الحدث",
+        "get_started": "البدء",
+        "next": "التالي"
+    },
+    "payment": {
+        "payment": "قسط",
+        "new": "جديد",
+        "due_date": "تاريخ الاستحقاق",
+        "receipt": "إيصال",
+        "pay_now": "ادفع الآن"
+    },
+    "payment_method": {
+        "credit_card": "بطاقة إئتمان",
+        "debit_card": "بطاقة ائتمان",
+        "paypal": "PayPal",
+        "visa": "تأشيرة",
+        "pay_cash_to_admin": "دفع النقد إلى المسؤول",
+        "select_payment_method": "اختار طريقة الدفع",
+        "security_deposit": "مبلغ التأمين",
+        "continue": "يكمل"
+    },
+    "pre_approve_visitor": {
+        "today": "اليوم",
+        "tomorrow": "غداً",
+        "visitors": "الزائرين",
+        "pre_approve_visitors": "قبل الموافقة على الزوار",
+        "add_visitor_detail": "أضف تفاصيل الزائر للعمل السريع",
+        "add_guest": "أضف ضيفًا",
+        "add_cab": "أضف سيارة أجرة",
+        "add_delivery": "أضف التسليم",
+        "add_service": "أضف الخدمة",
+        "allow_my_servicesman": "اسمح لخدماتي",
+        "serviceman_name": "جنود/ اسم الشركة",
+        "enter_serviceman_name": "أدخل اسم الخدمة/الشركة",
+        "phone_number": "رقم التليفون",
+        "enter_phone_number": "أدخل رقم الهاتف",
+        "to_enter_next": "للدخول في المقبل",
+        "allow_my_delivery": "السماح بتسليم بلدي",
+        "delivery_company_name": "اسم شركة التسليم",
+        "select_delivery_company": "حدد شركة التوصيل",
+        "cancel": "يلغي",
+        "okay": "تمام",
+        "allow_my_cab": "اسمح سيارة الكابينة الخاصة بي",
+        "allow_mycab_enter_today_next": "اسمح لسيارة الكابينة بالدخول اليوم مرة واحدة في المقبل",
+        "Add_vehicle_no": "أضف آخر 4 أرقام من السيارة رقم.",
+        "company_name": "اسم الشركة",
+        "select_company_name": "حدد اسم الشركة",
+        "allow_my_guest": "اسمح لضيفتي",
+        "guest_name": "اسم الضيف",
+        "enter_guest_name": "أدخل اسم الضيف",
+        "enter_date": "أدخل التاريخ",
+        "send_gate_pass_to_guest": "أرسل بوابة مرور إلى الضيف",
+        "submit": "يُقدِّم",
+        "gate_pass": "عبور البوابة",
+        "guest_at": "ضيف في",
+        "entry_code": "رمز الدخول",
+        "show_qr_code": "إظهار رمز الاستجابة السريعة أو أخبر OTP بالحراسة",
+        "share": "يشارك",
+        "download": "تحميل"
+    },
+    "edit_profile": {
+        "edit_profile": "تعديل الملف الشخصي",
+        "update": "تحديث",
+        "phone_number": "رقم التليفون",
+        "enter_your_phone_number": "أدخل رقم هاتفك",
+        "email_address": "عنوان البريد الإلكتروني",
+        "enter_your_email": "أدخل بريدك الإلكتروني",
+        "name": "اسم",
+        "enter_your_name": "أدخل أسمك",
+        "add_image": "إضافة صورة",
+        "camera": "آلة تصوير",
+        "gallery": "صالة عرض",
+        "remove": "يزيل"
+    },
+    "get_support": {
+        "get_support": "احصل على الدعم",
+        "ask_suggest_improve": "اطلب منا أن نقترح بأي طريقة يمكننا تحسينها",
+        "submit_message": "تقديم رسالة",
+        "message": "رسالة",
+        "enter_your_message": "أدخل رسالتك",
+        "issue_type": "نوع القضية",
+        "enter_topic": "أدخل الموضوع / نوع العدد"
+    },
+    "language": {
+        "language": "لغة",
+        "update": "تحديث"
+    },
+    "privacy_policy": {
+        "privacy_policy": "سياسة الخصوصية"
+    },
+    "profile": {
+        "father": "أب",
+        "mother": "الأم",
+        "son": "ابن",
+        "daughter": "بنت",
+        "wife": "زوجة",
+        "profile": "حساب تعريفي",
+        "my_family": "عائلتي",
+        "add_family_member": "أضف أحد أفراد الأسرة للدخول السريع",
+        "daily_help": "المساعدة اليومية",
+        "add_helper_text": "أضف خادمة ، غسيل ، مساعد للدخول السريع",
+        "my_vehicles": "سياراتي",
+        "add_vehicles_text": "أضف سياراتك للدخول السريع",
+        "frequent_entries": "إدخالات متكررة",
+        "add_frequent_entries_text": "أضف إدخالات سريعة شخص متكرر",
+        "add": "يضيف",
+        "household": "أُسرَة",
+        "view_profile": "عرض الصفحة الشخصية",
+        "flat_no": "شقة لا",
+        "block_no": "كتلة لا",
+        "gate_pass": "عبور البوابة",
+        "guest_at": "ضيف في",
+        "entry_code": "رمز الدخول",
+        "show_qr_code": "إظهار رمز الاستجابة السريعة أو أخبر OTP بالحراسة",
+        "share": "يشارك",
+        "download": "تحميل",
+        "add_frequent_entries": "أضف إدخالات متكررة",
+        "name": "اسم",
+        "enter_name": "أدخل الاسم",
+        "phone_number": "رقم التليفون",
+        "enter_phone_number": "أدخل رقم الهاتف",
+        "relations": "علاقات",
+        "enter_relations": "أدخل العلاقات",
+        "add_daily_help": "أضف المساعدة اليومية",
+        "vehicle_number": "عدد المركبات",
+        "enter_vehicle_number": "أدخل رقم السيارة",
+        "vehicle_model": "نموذج السيارة",
+        "enter_vehicle_model": "أدخل نموذج السيارة",
+        "vehicle_colour": "لون السيارة",
+        "enter_vehicle_colour": "أدخل لون السيارة",
+        "help_type": "نوع المساعدة",
+        "select_help_type": "حدد نوع المساعدة",
+        "add_member": "أضف أحد أفراد الأسرة",
+        "select_relations": "حدد العلاقات",
+        "send_gate_pass_guest": "أرسل بوابة مرور إلى الضيف",
+        "cancel": "يلغي",
+        "okay": "تمام",
+        "relation": "علاقة",
+        "submit": "يُقدِّم",
+        "add_image": "إضافة صورة",
+        "camera": "آلة تصوير",
+        "gallery": "صالة عرض",
+        "remove": "يزيل"
+    },
+    "settings": {
+        "settings": "إعدادات",
+        "edit_profile": "تعديل الملف الشخصي",
+        "language": "لغة",
+        "get_support": "احصل على الدعم",
+        "terms_and_condition": "الشروط والشرط",
+        "privacy_policy": "سياسة الخصوصية",
+        "logout": "تسجيل خروج",
+        "logout_text": "هل أنت متأكد أنك تريد تسجيل الخروج؟",
+        "no": "لا",
+        "yes": "نعم"
+    },
+    "terms_and_conditions": {
+        "Terms_and_condition": "الشروط والشرط"
+    },
+    "search": {
+        "search": "يبحث",
+        "recent_search": "البحث الأخير",
+        "clear_all": "امسح الكل"
+    },
+    "select_amenities": {
+        "select_amenity": "حدد الراحة",
+        "per_day": "في اليوم"
+    },
+    "service": {
+        "service": "خدمة",
+        "your_booking": "حجزك",
+        "nearby_service": "مقدمي الخدمات القريبة",
+        "book_service_text": "كتاب لإصلاح الأجهزة",
+        "select_service": "حدد الخدمة",
+        "book_visit_on": "زيارة كتاب على",
+        "select_date": "حدد تاريخ",
+        "select_time": "حدد الوقت",
+        "brief_your_problem": "اختصر مشكلتك",
+        "write_your_problem": "اكتب مشكلتك",
+        "company_name": "اسم الشركة",
+        "cancel": "يلغي",
+        "okay": "تمام",
+        "submit": "يُقدِّم"
+    },
+    "success": {
+        "payment_successful": "الدفع ناجح !!",
+        "amount_paid": "المبلغ المدفوع",
+        "paid_on": "المدفوعة على",
+        "paid_via": "دفعت عبر",
+        "transaction_id": "رقم المعاملة",
+        "back_to_home": "العودة إلى المنزل",
+        "download_receipt": "تنزيل إيصال",
+        "security_deposit": "مبلغ التأمين",
+        "paid": "مدفوع"
+    },
+    "visitors": {
+        "visitors": "الزائرين",
+        "no_visitors_yet": "لا زوار حتى الآن!",
+        "delete": "يمسح",
+        "removed_from_visitors": "تمت إزالته من الزوار",
+        "gatepass": "نظرة الشارع",
+        "gate_pass": "عبور البوابة",
+        "guest_at": "ضيف في",
+        "entry_code": "رمز الدخول",
+        "show_qr_code": "إظهار رمز الاستجابة السريعة أو أخبر OTP بالحراسة",
+        "share": "يشارك",
+        "download": "تحميل",
+        "pre_approve_visitors": "قبل الموافقة على الزوار"
+    },
+    "bottom_bar": {
+        "home": "بيت",
+        "chats": "الدردشات",
+        "service": "خدمة",
+        "profile": "حساب تعريفي",
+        "send_message": "أرسل رسالة",
+        "security_alert": "انذار امني"
+    }
+}

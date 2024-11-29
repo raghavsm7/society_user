@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "806838503582",
+    "project_id": "my-gate-user",
+    "storage_bucket": "my-gate-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806838503582:android:0568b0d8f1895d243ed38f",
+        "android_client_info": {
+          "package_name": "com.example.fl_sevengen_society_user_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCPoRtB--BBZhRSzYU4pHCqx6sS5dDXzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

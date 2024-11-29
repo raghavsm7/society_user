@@ -1,0 +1,371 @@
+{
+    "exit_app": {
+        "exit_text": "Tekan kembali sekali lagi untuk keluar"
+    },
+    "add_complaint": {
+        "personal": "Pribadi",
+        "community": "Masyarakat",
+        "add_complaint": "Tambahkan keluhan",
+        "submit_complaint": "Kirim Keluhan",
+        "complaint_raised": "Keluhan diangkat!",
+        "text": "Admin akan diberitahu dan akan segera menghubungi Anda",
+        "okay": "Oke",
+        "brief_your_complaint": "BINGINKAN Keluhan Anda",
+        "complaint_type": "Jenis keluhan",
+        "enter_complaint_type": "Masukkan jenis keluhan",
+        "attach_photo": "Lampirkan foto (opsional)",
+        "add_image": "Menambahkan gambar",
+        "camera": "Kamera",
+        "gallery": "Galeri",
+        "remove": "Menghapus"
+    },
+    "login": {
+        "login": "Gabung",
+        "verification_text": "*Kami akan mengirim OTP untuk verifikasi",
+        "enter_mobile_number": "Masukkan nomor ponsel",
+        "please_text": "Halo pengguna tolong login akun Anda",
+        "LOGIN": "GABUNG"
+    },
+    "otp": {
+        "didnt_recived": "Tidak menerima?",
+        "resend": "ulang",
+        "verify": "Memeriksa",
+        "please_wait": "Harap tunggu",
+        "please_text": "Harap masukkan OTP yang akan kami kirimkan kepada Anda di ponsel Anda No +91 1234567890",
+        "OTP_VERIFICATION": "Verifikasi OTP"
+    },
+    "register": {
+        "please_text": "Halo pengguna tolong buat akun Anda",
+        "REGISTER": "DAFTAR",
+        "register": "Daftar",
+        "email_address": "Alamat email",
+        "mobile_number": "Nomor handphone",
+        "user_name": "Nama belakang"
+    },
+    "book_amenities_proceed": {
+        "book_amenity": "Fasilitas buku",
+        "select_dates": "Pilih tanggal",
+        "select_time": "Pilih waktu",
+        "proceed_to_pay": "Lanjutkan untuk membayar",
+        "amount_to_pay": "Jumlah yang harus dibayar",
+        "total_day": "Total hari",
+        "day": "hari",
+        "from": "Dari",
+        "to": "Ke",
+        "select_date": "Pilih Tanggal",
+        "paid": "Dibayar",
+        "maximum_Capacity": "Kapasitas maksimum",
+        "person": "orang",
+        "book_before_least": "Pesan sebelumnya setidaknya",
+        "days": "hari -hari",
+        "per_day": "per hari"
+    },
+    "booked_amenities": {
+        "booked_amenities": "Fasilitas yang dipesan",
+        "book_amenity": "Fasilitas buku",
+        "confirmed_by": "Dikonfirmasi oleh",
+        "booked_by": "Dipesan oleh",
+        "canceled_by": "Dibatalkan oleh"
+    },
+    "call": {
+        "calling": "Panggilan..."
+    },
+    "calling": {
+        "call_gate": "Gerbang Panggilan",
+        "deny": "Membantah",
+        "swipe_up": "Gesek ke atas \n untuk mengizinkan",
+        "guest_waiting_gate": "Tamu menunggu di gerbang"
+    },
+    "chats": {
+        "chats": "Obrolan",
+        "residents": "Warga"
+    },
+    "complaint_detail": {
+        "community_complaint": "Keluhan Komunitas",
+        "complaint_image": "Gambar keluhan",
+        "recent_comments": "komentar terbaru",
+        "write_your_comment": "Tulis komentar Anda",
+        "ago": "yang lalu",
+        "reopen": "Dibuka kembali",
+        "mark_as_resolved": "Tandai sebagai diselesaikan",
+        "resolved_by": "Diselesaikan oleh",
+        "raised_by": "Dibesarkan oleh"
+    },
+    "credit_card": {
+        "credit_card": "Kartu kredit",
+        "continue": "Melanjutkan",
+        "card_number": "Nomor kartu",
+        "enter_card_number": "Masukkan nomor kartu",
+        "expire_date": "Tanggal kadaluarsa",
+        "CVV": "cvv",
+        "name_on_card": "Nama di kartu",
+        "enter_name_card": "Masukkan Nama di Kartu"
+    },
+    "help_desk": {
+        "personal": "Pribadi",
+        "community": "Masyarakat",
+        "help_desk": "Meja Bantuan",
+        "raise_new_complaint": "Meningkatkan keluhan baru",
+        "resolved_by": "Diselesaikan oleh",
+        "raised_by": "Dibesarkan oleh"
+    },
+    "home": {
+        "members": "Anggota",
+        "connect_member": "Hubungkan anggota Society",
+        "visitors": "Pengunjung",
+        "manage_entry": "Kelola entri pengunjung",
+        "notice_board": "Papan peringatan",
+        "society_announcement": "Pengumuman & Pemberitahuan Acara Masyarakat",
+        "payment": "Pembayaran",
+        "direct_payment_due": "Pembayaran langsung masyarakat jatuh tempo",
+        "book_amenities": "Fasilitas buku",
+        "pre_book_amenities": "Fasilitas Masyarakat Pra Buku",
+        "help_desk": "Meja Bantuan",
+        "complaint_suggestion": "Keluhan & Saran",
+        "community": "Masyarakat",
+        "new": "Baru"
+    },
+    "members": {
+        "members": "Anggota",
+        "flat_no": "No datar",
+        "block_no:": "Blok no",
+        "call": "Panggilan",
+        "chat": "Mengobrol",
+        "member": "Anggota",
+        "admin": "admin",
+        "committee": "Komite"
+    },
+    "messages": {
+        "type_text_here": "Ketik teks Anda di sini ...."
+    },
+    "notice_board": {
+        "notice_board": "Papan peringatan",
+        "new": "Baru",
+        "post_by": "Diposting oleh"
+    },
+    "notification": {
+        "notification": "Pemberitahuan",
+        "no_new_notification": "Tidak ada pemberitahuan baru",
+        "removed_from_notification": "Dihapus dari pemberitahuan"
+    },
+    "onboarding": {
+        "text_1": "Tingkatkan Keselamatan Keluarga Anda",
+        "text_2": "Dapatkan staf layanan di depan pintu Anda",
+        "text_3": "Dapatkan Notify About Event",
+        "get_started": "Memulai",
+        "next": "Berikutnya"
+    },
+    "payment": {
+        "payment": "Pembayaran",
+        "new": "Baru",
+        "due_date": "tenggat waktu",
+        "receipt": "Kuitansi",
+        "pay_now": "Bayar sekarang"
+    },
+    "payment_method": {
+        "credit_card": "Kartu kredit",
+        "debit_card": "Kartu debit",
+        "paypal": "paypal",
+        "visa": "visa",
+        "pay_cash_to_admin": "Bayar Tunai ke Admin",
+        "select_payment_method": "Pilih metode pembayaran",
+        "security_deposit": "Uang jaminan",
+        "continue": "Melanjutkan"
+    },
+    "pre_approve_visitor": {
+        "today": "Hari ini",
+        "tomorrow": "Besok",
+        "visitors": "Pengunjung",
+        "pre_approve_visitors": "Pra menyetujui pengunjung",
+        "add_visitor_detail": "Tambahkan detail pengunjung untuk tindakan cepat",
+        "add_guest": "Tambahkan tamu",
+        "add_cab": "Tambahkan taksi",
+        "add_delivery": "Tambahkan pengiriman",
+        "add_service": "Tambahkan Layanan",
+        "allow_my_servicesman": "Izinkan pelayanan saya",
+        "serviceman_name": "Nama prajurit/ perusahaan",
+        "enter_serviceman_name": "Masukkan prajurit/nama perusahaan",
+        "phone_number": "Nomor telepon",
+        "enter_phone_number": "Masukkan nomor telepon",
+        "to_enter_next": "Untuk masuk berikutnya",
+        "allow_my_delivery": "Izinkan pengiriman saya",
+        "delivery_company_name": "Nama Perusahaan Pengiriman",
+        "select_delivery_company": "Pilih Perusahaan Pengiriman",
+        "cancel": "Membatalkan",
+        "okay": "Oke",
+        "allow_my_cab": "Biarkan taksi saya",
+        "allow_mycab_enter_today_next": "Biarkan taksi saya masuk hari ini sekali di berikutnya",
+        "Add_vehicle_no": "Tambahkan 4 digit terakhir kendaraan no.",
+        "company_name": "Nama perusahaan",
+        "select_company_name": "Pilih Nama Perusahaan",
+        "allow_my_guest": "Izinkan tamuku",
+        "guest_name": "Nama tamu",
+        "enter_guest_name": "Masukkan nama tamu",
+        "enter_date": "Masukkan tanggal",
+        "send_gate_pass_to_guest": "Kirim Gerbang Pass ke Tamu",
+        "submit": "Kirim",
+        "gate_pass": "Gerbang Pass",
+        "guest_at": "Tamu di",
+        "entry_code": "Kode Masuk",
+        "show_qr_code": "Tunjukkan kode QR atau beri tahu OTP untuk menjaga",
+        "share": "Membagikan",
+        "download": "Unduh"
+    },
+    "edit_profile": {
+        "edit_profile": "Sunting profil",
+        "update": "Memperbarui",
+        "phone_number": "Nomor telepon",
+        "enter_your_phone_number": "Masukkan Nomor Telepon Anda",
+        "email_address": "Alamat email",
+        "enter_your_email": "Masukkan email Anda",
+        "name": "Nama",
+        "enter_your_name": "Masukkan nama Anda",
+        "add_image": "Menambahkan gambar",
+        "camera": "Kamera",
+        "gallery": "Galeri",
+        "remove": "Menghapus"
+    },
+    "get_support": {
+        "get_support": "Dapatkan dukungan",
+        "ask_suggest_improve": "Tanyakan kepada kami menyarankan cara apa pun yang dapat kami tingkatkan",
+        "submit_message": "Kirim pesan",
+        "message": "Pesan",
+        "enter_your_message": "Masukkan pesan Anda",
+        "issue_type": "Jenis masalah",
+        "enter_topic": "Masukkan Jenis Topik / Masalah"
+    },
+    "language": {
+        "language": "Bahasa",
+        "update": "Memperbarui"
+    },
+    "privacy_policy": {
+        "privacy_policy": "Kebijakan pribadi"
+    },
+    "profile": {
+        "father": "Ayah",
+        "mother": "Ibu",
+        "son": "Putra",
+        "daughter": "Anak perempuan",
+        "wife": "Istri",
+        "profile": "Profil",
+        "my_family": "Keluarga saya",
+        "add_family_member": "Tambahkan anggota keluarga untuk entri cepat",
+        "daily_help": "Bantuan harian",
+        "add_helper_text": "Tambahkan pelayan, binatu, penolong untuk masuk cepat",
+        "my_vehicles": "Kendaraan saya",
+        "add_vehicles_text": "Tambahkan kendaraan Anda untuk masuk cepat",
+        "frequent_entries": "Entri yang sering",
+        "add_frequent_entries_text": "Tambahkan entri cepat orang yang sering",
+        "add": "Menambahkan",
+        "household": "Rumah tangga",
+        "view_profile": "Tampilkan profil",
+        "flat_no": "No datar",
+        "block_no": "Blok no",
+        "gate_pass": "Gerbang Pass",
+        "guest_at": "Tamu di",
+        "entry_code": "Kode Masuk",
+        "show_qr_code": "Tunjukkan kode QR atau beri tahu OTP untuk menjaga",
+        "share": "Membagikan",
+        "download": "Unduh",
+        "add_frequent_entries": "Tambahkan entri yang sering",
+        "name": "Nama",
+        "enter_name": "Masukkan nama",
+        "phone_number": "Nomor telepon",
+        "enter_phone_number": "Masukkan nomor telepon",
+        "relations": "Hubungan",
+        "enter_relations": "Masukkan hubungan",
+        "add_daily_help": "Tambahkan Bantuan Harian",
+        "vehicle_number": "Nomor kendaraan",
+        "enter_vehicle_number": "Masukkan Nomor Kendaraan",
+        "vehicle_model": "Model Kendaraan",
+        "enter_vehicle_model": "Masukkan model kendaraan",
+        "vehicle_colour": "Warna kendaraan",
+        "enter_vehicle_colour": "Masukkan warna kendaraan",
+        "help_type": "Jenis bantuan",
+        "select_help_type": "Pilih Tipe Bantuan",
+        "add_member": "Tambahkan anggota keluarga",
+        "select_relations": "Pilih Hubungan",
+        "send_gate_pass_guest": "Kirim Gerbang Pass ke Tamu",
+        "cancel": "Membatalkan",
+        "okay": "Oke",
+        "relation": "Hubungan",
+        "submit": "Kirim",
+        "add_image": "Menambahkan gambar",
+        "camera": "Kamera",
+        "gallery": "Galeri",
+        "remove": "Menghapus"
+    },
+    "settings": {
+        "settings": "Pengaturan",
+        "edit_profile": "Sunting profil",
+        "language": "Bahasa",
+        "get_support": "Dapatkan dukungan",
+        "terms_and_condition": "Syarat & Kondisi",
+        "privacy_policy": "Kebijakan pribadi",
+        "logout": "Keluar",
+        "logout_text": "Apakah Anda yakin ingin keluar?",
+        "no": "TIDAK",
+        "yes": "Ya"
+    },
+    "terms_and_conditions": {
+        "Terms_and_condition": "Syarat & Kondisi"
+    },
+    "search": {
+        "search": "Mencari",
+        "recent_search": "Pencarian Terbaru",
+        "clear_all": "Bersihkan semua"
+    },
+    "select_amenities": {
+        "select_amenity": "Pilih kemudahan",
+        "per_day": "per hari"
+    },
+    "service": {
+        "service": "Melayani",
+        "your_booking": "Pemesanan Anda",
+        "nearby_service": "Penyedia layanan terdekat",
+        "book_service_text": "Pesan untuk perbaikan alat",
+        "select_service": "Pilih Layanan",
+        "book_visit_on": "Kunjungi buku di",
+        "select_date": "Pilih Tanggal",
+        "select_time": "Pilih waktu",
+        "brief_your_problem": "Singkat masalah Anda",
+        "write_your_problem": "Tulis masalah Anda",
+        "company_name": "Nama perusahaan",
+        "cancel": "Membatalkan",
+        "okay": "Oke",
+        "submit": "Kirim"
+    },
+    "success": {
+        "payment_successful": "Pembayaran berhasil !!",
+        "amount_paid": "Jumlah yang dibayarkan",
+        "paid_on": "Dibayarkan pada",
+        "paid_via": "Dibayar via",
+        "transaction_id": "ID transaksi",
+        "back_to_home": "Kembali ke rumah",
+        "download_receipt": "Unduh tanda terima",
+        "security_deposit": "Uang jaminan",
+        "paid": "Dibayar"
+    },
+    "visitors": {
+        "visitors": "Pengunjung",
+        "no_visitors_yet": "Belum ada pengunjung!",
+        "delete": "Menghapus",
+        "removed_from_visitors": "Dihapus dari pengunjung",
+        "gatepass": "Tampilan jalanan",
+        "gate_pass": "Gerbang Pass",
+        "guest_at": "Tamu di",
+        "entry_code": "Kode Masuk",
+        "show_qr_code": "Tunjukkan kode QR atau beri tahu OTP untuk menjaga",
+        "share": "Membagikan",
+        "download": "Unduh",
+        "pre_approve_visitors": "Pra menyetujui pengunjung"
+    },
+    "bottom_bar": {
+        "home": "Rumah",
+        "chats": "Obrolan",
+        "service": "Melayani",
+        "profile": "Profil",
+        "send_message": "Mengirim pesan",
+        "security_alert": "Peringatan keamanan"
+    }
+}

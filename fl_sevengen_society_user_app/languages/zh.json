@@ -1,0 +1,371 @@
+{
+    "exit_app": {
+        "exit_text": "再次向后退出"
+    },
+    "add_complaint": {
+        "personal": "个人的",
+        "community": "社区",
+        "add_complaint": "添加投诉",
+        "submit_complaint": "提交投诉",
+        "complaint_raised": "提出了投诉！",
+        "text": "管理员将通知，并将尽快与您联系",
+        "okay": "好的",
+        "brief_your_complaint": "向您的投诉介绍",
+        "complaint_type": "投诉类型",
+        "enter_complaint_type": "输入投诉类型",
+        "attach_photo": "附加照片（可选）",
+        "add_image": "添加图片",
+        "camera": "相机",
+        "gallery": "画廊",
+        "remove": "消除"
+    },
+    "login": {
+        "login": "登录",
+        "verification_text": "*我们将发送OTP进行验证",
+        "enter_mobile_number": "输入手机号码",
+        "please_text": "您好用户请登录您的帐户",
+        "LOGIN": "登录"
+    },
+    "otp": {
+        "didnt_recived": "没有收到？",
+        "resend": "重发",
+        "verify": "核实",
+        "please_wait": "请稍等",
+        "please_text": "请输入我们将在您的手机+91 1234567890上发送给您的OTP",
+        "OTP_VERIFICATION": "OTP验证"
+    },
+    "register": {
+        "please_text": "您好用户请创建您的帐户",
+        "REGISTER": "登记",
+        "register": "登记",
+        "email_address": "电子邮件地址",
+        "mobile_number": "手机号码",
+        "user_name": "用户名"
+    },
+    "book_amenities_proceed": {
+        "book_amenity": "书店",
+        "select_dates": "选择日期",
+        "select_time": "选择时间",
+        "proceed_to_pay": "继续付款",
+        "amount_to_pay": "支付数量",
+        "total_day": "总日",
+        "day": "天",
+        "from": "从",
+        "to": "到",
+        "select_date": "选择日期",
+        "paid": "有薪酬的",
+        "maximum_Capacity": "最大容量",
+        "person": "人",
+        "book_before_least": "至少在",
+        "days": "天",
+        "per_day": "每天"
+    },
+    "booked_amenities": {
+        "booked_amenities": "预订设施",
+        "book_amenity": "书店",
+        "confirmed_by": "经证实",
+        "booked_by": "预订",
+        "canceled_by": "取消"
+    },
+    "call": {
+        "calling": "叫..."
+    },
+    "calling": {
+        "call_gate": "通话门",
+        "deny": "否定",
+        "swipe_up": "向上滑动\n允许",
+        "guest_waiting_gate": "客人在门口等待"
+    },
+    "chats": {
+        "chats": "聊天",
+        "residents": "居民"
+    },
+    "complaint_detail": {
+        "community_complaint": "社区投诉",
+        "complaint_image": "投诉图像",
+        "recent_comments": "最近的评论",
+        "write_your_comment": "写你的评论",
+        "ago": "前",
+        "reopen": "重新开放",
+        "mark_as_resolved": "标记为解决",
+        "resolved_by": "解决",
+        "raised_by": "由"
+    },
+    "credit_card": {
+        "credit_card": "信用卡",
+        "continue": "继续",
+        "card_number": "卡号",
+        "enter_card_number": "输入卡号",
+        "expire_date": "到期日期",
+        "CVV": "cvv",
+        "name_on_card": "卡片上的名字",
+        "enter_name_card": "在卡片上输入名称"
+    },
+    "help_desk": {
+        "personal": "个人的",
+        "community": "社区",
+        "help_desk": "帮助台",
+        "raise_new_complaint": "提出新的投诉",
+        "resolved_by": "解决",
+        "raised_by": "由"
+    },
+    "home": {
+        "members": "成员",
+        "connect_member": "连接社会成员",
+        "visitors": "访客",
+        "manage_entry": "管理访问者的条目",
+        "notice_board": "公告栏",
+        "society_announcement": "社会公告和活动通知",
+        "payment": "支付",
+        "direct_payment_due": "直接支付社会应得的",
+        "book_amenities": "书店",
+        "pre_book_amenities": "预科学会便利设施",
+        "help_desk": "帮助台",
+        "complaint_suggestion": "投诉和建议",
+        "community": "社区",
+        "new": "新的"
+    },
+    "members": {
+        "members": "成员",
+        "flat_no": "公寓",
+        "block_no:": "块",
+        "call": "称呼",
+        "chat": "聊天",
+        "member": "成员",
+        "admin": "行政",
+        "committee": "委员会"
+    },
+    "messages": {
+        "type_text_here": "在此输入文字...."
+    },
+    "notice_board": {
+        "notice_board": "公告栏",
+        "new": "新的",
+        "post_by": "发帖"
+    },
+    "notification": {
+        "notification": "通知",
+        "no_new_notification": "没有新的通知",
+        "removed_from_notification": "从通知中删除"
+    },
+    "onboarding": {
+        "text_1": "提高家庭安全",
+        "text_2": "让服务人员在您家门口",
+        "text_3": "通知事件",
+        "get_started": "开始",
+        "next": "下一个"
+    },
+    "payment": {
+        "payment": "支付",
+        "new": "新的",
+        "due_date": "到期日",
+        "receipt": "收据",
+        "pay_now": "现在付款"
+    },
+    "payment_method": {
+        "credit_card": "信用卡",
+        "debit_card": "借记卡",
+        "paypal": "贝宝",
+        "visa": "签证",
+        "pay_cash_to_admin": "向管理支付现金",
+        "select_payment_method": "选择付款方式",
+        "security_deposit": "保证金",
+        "continue": "继续"
+    },
+    "pre_approve_visitor": {
+        "today": "今天",
+        "tomorrow": "明天",
+        "visitors": "访客",
+        "pre_approve_visitors": "预先批准访客",
+        "add_visitor_detail": "添加访客细节以进行快速操作",
+        "add_guest": "添加客人",
+        "add_cab": "添加出租车",
+        "add_delivery": "添加交货",
+        "add_service": "添加服务",
+        "allow_my_servicesman": "允许我的服务员",
+        "serviceman_name": "服务员/公司名称",
+        "enter_serviceman_name": "输入服务员/公司名称",
+        "phone_number": "电话号码",
+        "enter_phone_number": "输入电话号码",
+        "to_enter_next": "进入下一个",
+        "allow_my_delivery": "允许我的交货",
+        "delivery_company_name": "送货公司名称",
+        "select_delivery_company": "选择送货公司",
+        "cancel": "取消",
+        "okay": "好的",
+        "allow_my_cab": "允许我的出租车",
+        "allow_mycab_enter_today_next": "让我的出租车今天进入下一步",
+        "Add_vehicle_no": "添加最后4位车辆数字。",
+        "company_name": "公司名称",
+        "select_company_name": "选择公司名称",
+        "allow_my_guest": "允许我的客人",
+        "guest_name": "客人姓名",
+        "enter_guest_name": "输入来宾名称",
+        "enter_date": "输入日期",
+        "send_gate_pass_to_guest": "将大门通行证发送给客人",
+        "submit": "提交",
+        "gate_pass": "门通道",
+        "guest_at": "来宾",
+        "entry_code": "条目代码",
+        "show_qr_code": "显示QR码或告诉OTP守卫",
+        "share": "分享",
+        "download": "下载"
+    },
+    "edit_profile": {
+        "edit_profile": "编辑个人资料",
+        "update": "更新",
+        "phone_number": "电话号码",
+        "enter_your_phone_number": "输入你的电话号码",
+        "email_address": "电子邮件地址",
+        "enter_your_email": "输入你的电子邮箱",
+        "name": "姓名",
+        "enter_your_name": "输入你的名字",
+        "add_image": "添加图片",
+        "camera": "相机",
+        "gallery": "画廊",
+        "remove": "消除"
+    },
+    "get_support": {
+        "get_support": "得到支持",
+        "ask_suggest_improve": "问我们建议我们有任何改进的方式",
+        "submit_message": "提交消息",
+        "message": "信息",
+        "enter_your_message": "输入您的消息",
+        "issue_type": "问题类型",
+        "enter_topic": "输入主题 /问题类型"
+    },
+    "language": {
+        "language": "语言",
+        "update": "更新"
+    },
+    "privacy_policy": {
+        "privacy_policy": "隐私政策"
+    },
+    "profile": {
+        "father": "父亲",
+        "mother": "母亲",
+        "son": "儿子",
+        "daughter": "女儿",
+        "wife": "妻子",
+        "profile": "轮廓",
+        "my_family": "我的家人",
+        "add_family_member": "添加家庭成员以快速进入",
+        "daily_help": "每日帮助",
+        "add_helper_text": "添加女佣，洗衣，助手以快速进入",
+        "my_vehicles": "我的车辆",
+        "add_vehicles_text": "添加您的车辆以快速进入",
+        "frequent_entries": "频繁的条目",
+        "add_frequent_entries_text": "添加经常的人快速参赛",
+        "add": "添加",
+        "household": "家庭",
+        "view_profile": "查看资料",
+        "flat_no": "公寓",
+        "block_no": "块",
+        "gate_pass": "门通道",
+        "guest_at": "来宾",
+        "entry_code": "条目代码",
+        "show_qr_code": "显示QR码或告诉OTP守卫",
+        "share": "分享",
+        "download": "下载",
+        "add_frequent_entries": "添加频繁的条目",
+        "name": "姓名",
+        "enter_name": "输入名字",
+        "phone_number": "电话号码",
+        "enter_phone_number": "输入电话号码",
+        "relations": "关系",
+        "enter_relations": "输入关系",
+        "add_daily_help": "增加日常帮助",
+        "vehicle_number": "车辆号码",
+        "enter_vehicle_number": "输入车辆号码",
+        "vehicle_model": "车辆型号",
+        "enter_vehicle_model": "输入车辆型号",
+        "vehicle_colour": "车辆颜色",
+        "enter_vehicle_colour": "输入车辆颜色",
+        "help_type": "帮助类型",
+        "select_help_type": "选择帮助类型",
+        "add_member": "添加家庭成员",
+        "select_relations": "选择关系",
+        "send_gate_pass_guest": "将大门通行证发送给客人",
+        "cancel": "取消",
+        "okay": "好的",
+        "relation": "关系",
+        "submit": "提交",
+        "add_image": "添加图片",
+        "camera": "相机",
+        "gallery": "画廊",
+        "remove": "消除"
+    },
+    "settings": {
+        "settings": "设置",
+        "edit_profile": "编辑个人资料",
+        "language": "语言",
+        "get_support": "得到支持",
+        "terms_and_condition": "条款与协议",
+        "privacy_policy": "隐私政策",
+        "logout": "登出",
+        "logout_text": "您确定要注销吗？",
+        "no": "不",
+        "yes": "是的"
+    },
+    "terms_and_conditions": {
+        "Terms_and_condition": "条款与协议"
+    },
+    "search": {
+        "search": "搜索",
+        "recent_search": "最近的搜索",
+        "clear_all": "清除全部"
+    },
+    "select_amenities": {
+        "select_amenity": "选择便利",
+        "per_day": "每天"
+    },
+    "service": {
+        "service": "服务",
+        "your_booking": "您的预订",
+        "nearby_service": "附近的服务提供商",
+        "book_service_text": "预算修理",
+        "select_service": "选择服务",
+        "book_visit_on": "访问",
+        "select_date": "选择日期",
+        "select_time": "选择时间",
+        "brief_your_problem": "简要介绍您的问题",
+        "write_your_problem": "写你的问题",
+        "company_name": "公司名称",
+        "cancel": "取消",
+        "okay": "好的",
+        "submit": "提交"
+    },
+    "success": {
+        "payment_successful": "支付成功 ！！",
+        "amount_paid": "支付的金额",
+        "paid_on": "支付",
+        "paid_via": "通过",
+        "transaction_id": "事务ID",
+        "back_to_home": "回到家",
+        "download_receipt": "下载收据",
+        "security_deposit": "保证金",
+        "paid": "有薪酬的"
+    },
+    "visitors": {
+        "visitors": "访客",
+        "no_visitors_yet": "还没有访客！",
+        "delete": "删除",
+        "removed_from_visitors": "从访客那里撤离",
+        "gatepass": "街头看",
+        "gate_pass": "门通道",
+        "guest_at": "来宾",
+        "entry_code": "条目代码",
+        "show_qr_code": "显示QR码或告诉OTP守卫",
+        "share": "分享",
+        "download": "下载",
+        "pre_approve_visitors": "预先批准访客"
+    },
+    "bottom_bar": {
+        "home": "家",
+        "chats": "聊天",
+        "service": "服务",
+        "profile": "轮廓",
+        "send_message": "发信息",
+        "security_alert": "安全警报"
+    }
+}

@@ -1,0 +1,371 @@
+{
+    "exit_app": {
+        "exit_text": "बाहर निकलने के लिए एक बार फिर से दबाएं"
+    },
+    "add_complaint": {
+        "personal": "निजी",
+        "community": "समुदाय",
+        "add_complaint": "शिकायत जोड़ें",
+        "submit_complaint": "शिकायत प्रस्तुत करें",
+        "complaint_raised": "शिकायत उठाई!",
+        "text": "व्यवस्थापक सूचित करेगा और जल्द ही आपको वापस मिल जाएगा",
+        "okay": "ठीक है",
+        "brief_your_complaint": "अपनी शिकायत को संक्षिप्त करें",
+        "complaint_type": "शिकायत प्रकार",
+        "enter_complaint_type": "शिकायत प्रकार दर्ज करें",
+        "attach_photo": "एक फोटो संलग्न करें (वैकल्पिक)",
+        "add_image": "छवि जोड़ें",
+        "camera": "कैमरा",
+        "gallery": "गैलरी",
+        "remove": "निकालना"
+    },
+    "login": {
+        "login": "लॉग इन करें",
+        "verification_text": "*हम सत्यापन के लिए OTP भेजेंगे",
+        "enter_mobile_number": "मोबाइल नंबर दर्ज करें",
+        "please_text": "हैलो उपयोगकर्ता कृपया अपना खाता लॉगिन करें",
+        "LOGIN": "लॉग इन करें"
+    },
+    "otp": {
+        "didnt_recived": "प्राप्त नहीं हुआ?",
+        "resend": "पुन: भेजें",
+        "verify": "सत्यापित करें",
+        "please_wait": "कृपया प्रतीक्षा करें",
+        "please_text": "कृपया ओटीपी दर्ज करें हम आपको अपने मोबाइल नंबर +91 1234567890 पर भेजेंगे",
+        "OTP_VERIFICATION": "ओटीपी सत्यापन"
+    },
+    "register": {
+        "please_text": "नमस्कार उपयोगकर्ता कृपया अपना खाता बनाएं",
+        "REGISTER": "पंजीकरण करवाना",
+        "register": "पंजीकरण करवाना",
+        "email_address": "मेल पता",
+        "mobile_number": "मोबाइल नंबर",
+        "user_name": "उपयोगकर्ता नाम"
+    },
+    "book_amenities_proceed": {
+        "book_amenity": "बुक एमेनिटी",
+        "select_dates": "दिनांक का चयन करें",
+        "select_time": "समय का चयन करें",
+        "proceed_to_pay": "चुकाने के लिए कार्रवाई शुरू करो",
+        "amount_to_pay": "भुगतान की जाने वाली राशि",
+        "total_day": "कुल दिन",
+        "day": "दिन",
+        "from": "से",
+        "to": "को",
+        "select_date": "तारीख़ चुनें",
+        "paid": "चुकाया गया",
+        "maximum_Capacity": "अधिकतम योग्यता",
+        "person": "व्यक्ति",
+        "book_before_least": "कम से कम बुक करें",
+        "days": "दिन",
+        "per_day": "प्रति दिन"
+    },
+    "booked_amenities": {
+        "booked_amenities": "नामित सुविधाएं",
+        "book_amenity": "बुक एमेनिटी",
+        "confirmed_by": "पक्का करना",
+        "booked_by": "द्वारा बुक किया हुआ",
+        "canceled_by": "द्वारा रद्द कर दिया गया"
+    },
+    "call": {
+        "calling": "बुला रहा है ..."
+    },
+    "calling": {
+        "call_gate": "कॉल गेट",
+        "deny": "अस्वीकार करना",
+        "swipe_up": "अनुमति देने के लिए \n स्वाइप करें",
+        "guest_waiting_gate": "गेट पर अतिथि प्रतीक्षा कर रहे हैं"
+    },
+    "chats": {
+        "chats": "चैट",
+        "residents": "रहने वाले"
+    },
+    "complaint_detail": {
+        "community_complaint": "सामुदायिक शिकायत",
+        "complaint_image": "शिकायत छवि",
+        "recent_comments": "हाल की टिप्पणियां",
+        "write_your_comment": "अपनी टिप्पणी लिखें",
+        "ago": "पहले",
+        "reopen": "फिर से खोलना",
+        "mark_as_resolved": "सही के रूप में चिन्हित करो",
+        "resolved_by": "द्वारा हल किया गया",
+        "raised_by": "द्वारा उठाए गए"
+    },
+    "credit_card": {
+        "credit_card": "क्रेडिट कार्ड",
+        "continue": "जारी रखना",
+        "card_number": "कार्ड संख्या",
+        "enter_card_number": "कार्ड नंबर दर्ज करें",
+        "expire_date": "समाप्त होने की तिथि",
+        "CVV": "सीवीवी",
+        "name_on_card": "कार्ड पर नाम",
+        "enter_name_card": "कार्ड पर नाम दर्ज करें"
+    },
+    "help_desk": {
+        "personal": "निजी",
+        "community": "समुदाय",
+        "help_desk": "सहायता केंद्र",
+        "raise_new_complaint": "नई शिकायतें बढ़ाएं",
+        "resolved_by": "द्वारा हल किया गया",
+        "raised_by": "द्वारा उठाए गए"
+    },
+    "home": {
+        "members": "सदस्यों",
+        "connect_member": "सोसायटी के सदस्य को जोड़ें",
+        "visitors": "आगंतुकों",
+        "manage_entry": "आगंतुकों की प्रविष्टि का प्रबंधन करें",
+        "notice_board": "सूचना पट्ट",
+        "society_announcement": "सोसायटी की घोषणा और घटना नोटिस",
+        "payment": "भुगतान",
+        "direct_payment_due": "समाज का प्रत्यक्ष भुगतान",
+        "book_amenities": "पुस्तक सुविधाएं",
+        "pre_book_amenities": "पूर्व पुस्तक समाज सुविधाएं",
+        "help_desk": "सहायता केंद्र",
+        "complaint_suggestion": "शिकायत और सुझाव",
+        "community": "समुदाय",
+        "new": "नया"
+    },
+    "members": {
+        "members": "सदस्यों",
+        "flat_no": "नीरस नहीं",
+        "block_no:": "ब्लॉक नं",
+        "call": "पुकारना",
+        "chat": "बात करना",
+        "member": "सदस्य",
+        "admin": "व्यवस्थापक",
+        "committee": "समिति"
+    },
+    "messages": {
+        "type_text_here": "यहां अपना पाठ लिखें...."
+    },
+    "notice_board": {
+        "notice_board": "सूचना पट्ट",
+        "new": "नया",
+        "post_by": "द्वारा पोस्ट करना"
+    },
+    "notification": {
+        "notification": "अधिसूचना",
+        "no_new_notification": "कोई नई अधिसूचना नहीं",
+        "removed_from_notification": "अधिसूचना से हटा दिया गया"
+    },
+    "onboarding": {
+        "text_1": "अपने परिवार की सुरक्षा में सुधार करें",
+        "text_2": "अपने दरवाजे पर सेवा कर्मचारी प्राप्त करें",
+        "text_3": "घटना के बारे में सूचित करें",
+        "get_started": "शुरू हो जाओ",
+        "next": "अगला"
+    },
+    "payment": {
+        "payment": "भुगतान",
+        "new": "नया",
+        "due_date": "नियत तारीख",
+        "receipt": "रसीद",
+        "pay_now": "अब भुगतान करें"
+    },
+    "payment_method": {
+        "credit_card": "क्रेडिट कार्ड",
+        "debit_card": "डेबिट कार्ड",
+        "paypal": "paypal",
+        "visa": "वीज़ा",
+        "pay_cash_to_admin": "व्यवस्थापक को नकद भुगतान करें",
+        "select_payment_method": "भुगतान का तरीका चुनें",
+        "security_deposit": "सुरक्षा जमा राशि",
+        "continue": "जारी रखना"
+    },
+    "pre_approve_visitor": {
+        "today": "आज",
+        "tomorrow": "कल",
+        "visitors": "आगंतुकों",
+        "pre_approve_visitors": "आगंतुकों को मंजूरी दें",
+        "add_visitor_detail": "त्वरित कार्रवाई के लिए आगंतुक विवरण जोड़ें",
+        "add_guest": "अतिथि जोड़ें",
+        "add_cab": "कैब जोड़ें",
+        "add_delivery": "वितरण जोड़ें",
+        "add_service": "सेवा जोड़ें",
+        "allow_my_servicesman": "मेरी सेवाओं की अनुमति दें",
+        "serviceman_name": "सर्विसमैन/ कंपनी का नाम",
+        "enter_serviceman_name": "सर्विसमैन/कंपनी का नाम दर्ज करें",
+        "phone_number": "फ़ोन नंबर",
+        "enter_phone_number": "फोन नंबर दर्ज",
+        "to_enter_next": "अगले में प्रवेश करने के लिए",
+        "allow_my_delivery": "मेरी डिलीवरी की अनुमति दें",
+        "delivery_company_name": "वितरण कंपनी का नाम",
+        "select_delivery_company": "डिलीवरी कंपनी का चयन करें",
+        "cancel": "रद्द करना",
+        "okay": "ठीक है",
+        "allow_my_cab": "मेरी कैब की अनुमति दें",
+        "allow_mycab_enter_today_next": "मेरी कैब को अगले में एक बार आज भी प्रवेश करने दें",
+        "Add_vehicle_no": "वाहन नं के अंतिम 4 अंक जोड़ें।",
+        "company_name": "कंपनी का नाम",
+        "select_company_name": "कंपनी का नाम चुनें",
+        "allow_my_guest": "मेरे मेहमान की अनुमति दें",
+        "guest_name": "अतिथि का नाम",
+        "enter_guest_name": "अतिथि नाम दर्ज करें",
+        "enter_date": "दिनांक दर्ज करें",
+        "send_gate_pass_to_guest": "अतिथि को गेट पास भेजें",
+        "submit": "जमा करना",
+        "gate_pass": "प्रवेश पत्र",
+        "guest_at": "अतिथि",
+        "entry_code": "प्रविष्टि कोड",
+        "show_qr_code": "QR कोड दिखाएं या OTP को गार्ड को बताएं",
+        "share": "शेयर करना",
+        "download": "डाउनलोड करना"
+    },
+    "edit_profile": {
+        "edit_profile": "प्रोफ़ाइल संपादित करें",
+        "update": "अद्यतन",
+        "phone_number": "फ़ोन नंबर",
+        "enter_your_phone_number": "अपना फोन नंबर डालें",
+        "email_address": "मेल पता",
+        "enter_your_email": "अपना ईमेल दर्ज करें",
+        "name": "नाम",
+        "enter_your_name": "अपना नाम दर्ज करें",
+        "add_image": "छवि जोड़ें",
+        "camera": "कैमरा",
+        "gallery": "गैलरी",
+        "remove": "निकालना"
+    },
+    "get_support": {
+        "get_support": "समर्थन प्राप्त करें",
+        "ask_suggest_improve": "हमसे पूछें कि हम किसी भी तरह से सुधार कर सकते हैं",
+        "submit_message": "संदेश जमा करें",
+        "message": "संदेश",
+        "enter_your_message": "अपना संदेश दर्ज करें",
+        "issue_type": "विषय वर्ग",
+        "enter_topic": "विषय / अंक प्रकार दर्ज करें"
+    },
+    "language": {
+        "language": "भाषा",
+        "update": "अद्यतन"
+    },
+    "privacy_policy": {
+        "privacy_policy": "गोपनीयता नीति"
+    },
+    "profile": {
+        "father": "पिता",
+        "mother": "माँ",
+        "son": "बेटा",
+        "daughter": "बेटी",
+        "wife": "पत्नी",
+        "profile": "प्रोफ़ाइल",
+        "my_family": "मेरा परिवार",
+        "add_family_member": "त्वरित प्रविष्टि के लिए परिवार के सदस्य को जोड़ें",
+        "daily_help": "दैनिक सहायता",
+        "add_helper_text": "त्वरित प्रविष्टि के लिए नौकरानी, कपड़े धोने, सहायक जोड़ें",
+        "my_vehicles": "मेरे वाहन",
+        "add_vehicles_text": "त्वरित प्रविष्टि के लिए अपने वाहन जोड़ें",
+        "frequent_entries": "बार -बार प्रविष्टियाँ",
+        "add_frequent_entries_text": "लगातार व्यक्ति त्वरित प्रविष्टियाँ जोड़ें",
+        "add": "जोड़ना",
+        "household": "परिवार",
+        "view_profile": "प्रोफ़ाइल देखें",
+        "flat_no": "नीरस नहीं",
+        "block_no": "ब्लॉक नं",
+        "gate_pass": "प्रवेश पत्र",
+        "guest_at": "अतिथि",
+        "entry_code": "प्रविष्टि कोड",
+        "show_qr_code": "QR कोड दिखाएं या OTP को गार्ड को बताएं",
+        "share": "शेयर करना",
+        "download": "डाउनलोड करना",
+        "add_frequent_entries": "लगातार प्रविष्टियाँ जोड़ें",
+        "name": "नाम",
+        "enter_name": "नाम दर्ज करें",
+        "phone_number": "फ़ोन नंबर",
+        "enter_phone_number": "फोन नंबर दर्ज",
+        "relations": "रिश्ते",
+        "enter_relations": "संबंध दर्ज करें",
+        "add_daily_help": "दैनिक सहायता जोड़ें",
+        "vehicle_number": "गाडी नंबर",
+        "enter_vehicle_number": "वाहन संख्या दर्ज करें",
+        "vehicle_model": "वाहन मॉडल",
+        "enter_vehicle_model": "वाहन मॉडल दर्ज करें",
+        "vehicle_colour": "वाहन रंग",
+        "enter_vehicle_colour": "वाहन का रंग दर्ज करें",
+        "help_type": "सहायता प्रकार",
+        "select_help_type": "सहायता प्रकार का चयन करें",
+        "add_member": "परिवार के सदस्य को जोड़ें",
+        "select_relations": "संबंधों का चयन करें",
+        "send_gate_pass_guest": "अतिथि को गेट पास भेजें",
+        "cancel": "रद्द करना",
+        "okay": "ठीक है",
+        "relation": "रिश्ता",
+        "submit": "जमा करना",
+        "add_image": "छवि जोड़ें",
+        "camera": "कैमरा",
+        "gallery": "गैलरी",
+        "remove": "निकालना"
+    },
+    "settings": {
+        "settings": "समायोजन",
+        "edit_profile": "प्रोफ़ाइल संपादित करें",
+        "language": "भाषा",
+        "get_support": "समर्थन प्राप्त करें",
+        "terms_and_condition": "नियम व शर्त",
+        "privacy_policy": "गोपनीयता नीति",
+        "logout": "लॉग आउट",
+        "logout_text": "क्या आप लॉग आउट करना चाहते हैं?",
+        "no": "नहीं",
+        "yes": "हाँ"
+    },
+    "terms_and_conditions": {
+        "Terms_and_condition": "नियम व शर्त"
+    },
+    "search": {
+        "search": "खोज",
+        "recent_search": "हाल ही में खोज",
+        "clear_all": "सभी साफ करें"
+    },
+    "select_amenities": {
+        "select_amenity": "एमेनिटी का चयन करें",
+        "per_day": "प्रति दिन"
+    },
+    "service": {
+        "service": "सेवा",
+        "your_booking": "आपकी बुकिंग",
+        "nearby_service": "पास के सेवा प्रदाता",
+        "book_service_text": "उपकरण मरम्मत के लिए पुस्तक",
+        "select_service": "सेवा का चयन करें",
+        "book_visit_on": "बुक विजिट पर",
+        "select_date": "तारीख़ चुनें",
+        "select_time": "समय का चयन करें",
+        "brief_your_problem": "अपनी समस्या को संक्षिप्त करें",
+        "write_your_problem": "अपनी समस्या लिखें",
+        "company_name": "कंपनी का नाम",
+        "cancel": "रद्द करना",
+        "okay": "ठीक है",
+        "submit": "जमा करना"
+    },
+    "success": {
+        "payment_successful": "भुगतान सफल !!",
+        "amount_paid": "राशि का भुगतान",
+        "paid_on": "भुगतान करना",
+        "paid_via": "के माध्यम से भुगतान किया",
+        "transaction_id": "लेन -देन आईडी",
+        "back_to_home": "घर वापिस जा रहा हूँ",
+        "download_receipt": "डाउनलोड रसीद",
+        "security_deposit": "सुरक्षा जमा राशि",
+        "paid": "चुकाया गया"
+    },
+    "visitors": {
+        "visitors": "आगंतुकों",
+        "no_visitors_yet": "अभी तक कोई आगंतुक नहीं!",
+        "delete": "मिटाना",
+        "removed_from_visitors": "आगंतुकों से हटा दिया गया",
+        "gatepass": "स्ट्रीट लुक",
+        "gate_pass": "प्रवेश पत्र",
+        "guest_at": "अतिथि",
+        "entry_code": "प्रविष्टि कोड",
+        "show_qr_code": "QR कोड दिखाएं या OTP को गार्ड को बताएं",
+        "share": "शेयर करना",
+        "download": "डाउनलोड करना",
+        "pre_approve_visitors": "आगंतुकों को मंजूरी दें"
+    },
+    "bottom_bar": {
+        "home": "घर",
+        "chats": "चैट",
+        "service": "सेवा",
+        "profile": "प्रोफ़ाइल",
+        "send_message": "मेसेज भेजें",
+        "security_alert": "सुरक्षा चेतावनी"
+    }
+}

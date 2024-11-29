@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+
+    <title>SevenGen Society User App - Society Management User App UI in Flutter v1.0</title>
+
+    <!-- CSS style -->
+    <link rel="stylesheet" type="text/css" href="assets/css/global.css" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="assets/css/fontello.css"
+      media="all"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="assets/js/google-code-prettify/prettify.css"
+    />
+
+    <!-- Google web fonts -->
+    <link
+      href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800"
+      rel="stylesheet"
+      type="text/css"
+    />
+
+    <!-- jQuery -->
+    <script type="text/javascript" src="assets/js/jquery.js"></script>
+    <script type="text/javascript" src="assets/js/globals.js"></script>
+    <script
+      type="text/javascript"
+      src="assets/js/google-code-prettify/prettify.js"
+    ></script>
+
+    <style type="text/css">
+      img {
+        max-width: 800px;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Header -->
+    <header>
+      <div class="container">
+        <div class="logo">SevenGen Society User App - Society Management User App UI in Flutter v1.0</div>
+        <div class="slogan">Fabulous UI in Flutter</div>
+      </div>
+    </header>
+
+    <!-- Container -->
+    <div class="container">
+      <div class="author">
+        Created: <strong>03/10/2023</strong><br />
+        Last Update: <strong>03/10/2023</strong><br />
+        By:
+        <strong
+          ><a
+            href="https://codecanyon.net/user/camelcasetechnology/portfolio"
+            target="_blank"
+            >CamelCaseTechnology</a
+          ></strong
+        ><br />
+        Profile:
+        <strong
+          ><a
+            href="https://codecanyon.net/user/camelcasetechnology"
+            target="_blank"
+            >www.codecanyon.net/user/camelcasetechnology</a
+          ></strong
+        ><br />
+        E-mail:
+        <strong
+          ><a href="mailto:camelcasetechnology@gmail.com"
+            >camelcasetechnology@gmail.com</a
+          ></strong
+        ><br />
+      </div>
+      <p>&nbsp;</p>
+
+      <h2 class="alt">Table of Contents</h2>
+      <ol class="alpha">
+        <li><a href="#basic">Basic Information</a></li>
+        <li><a href="#file">Directories & File Uses</a></li>
+        <li><a href="#question">Still have a question?</a></li>
+        <li><a href="#contact">Contact US</a></li>
+      </ol>
+
+      <hr />
+      <h3 id="basic">A) Basic Information</h3>
+
+      <ul>
+        <li><b>Flutter Version</b> - 3.13.6</li>
+        <li><b>Dart Version</b> - 2.25.1</li>
+        <li>
+          <b>Install Flutter</b> - See guide according to your operating system.
+        </li>
+        <ul>
+          <li>
+            <b>Windows</b>-
+            <span
+              ><a
+                href="https://flutter.dev/docs/get-started/install/windows"
+                target="_blank"
+                >https://flutter.dev/docs/get-started/install/windows</a
+              ></span
+            >
+          </li>
+          <li>
+            <b>macOS</b>-
+            <span
+              ><a
+                href="https://flutter.dev/docs/get-started/install/macos"
+                target="_blank"
+                >https://flutter.dev/docs/get-started/install/macos</a
+              ></span
+            >
+          </li>
+          <li>
+            <b>Linux</b>-
+            <span
+              ><a
+                href="https://flutter.dev/docs/get-started/install/linux"
+                target="_blank"
+                >https://flutter.dev/docs/get-started/install/linux</a
+              ></span
+            >
+          </li>
+        </ul>
+        <li>
+          <b>Set up an editor</b> -
+          <span
+            ><a
+              href="https://flutter.dev/docs/get-started/editor"
+              target="_blank"
+              >https://flutter.dev/docs/get-started/editor</a
+            ></span
+          >
+        </li>
+        <li>
+          <b>Build Our App</b> - Open <b>fl_sevengen_society_user_app</b> folder on your selected
+          IDE (Android Studio or VSCode). Run <b>flutter pub get</b>. Then
+          follow below guide.
+        </li>
+        <ul>
+          <li>
+            <a
+              href="https://flutter.dev/docs/get-started/test-drive?tab=vscode"
+              target="_blank"
+              >https://flutter.dev/docs/get-started/test-drive</a
+            >
+            <b>Run the App</b> Section
+          </li>
+        </ul>
+        <li>
+          <b>Change App Icon</b>-
+          <span
+            ><a
+              href="https://pub.dev/packages/flutter_launcher_icons"
+              target="_blank"
+              >https://pub.dev/packages/flutter_launcher_icons</a
+            ></span
+          >
+        </li>
+        <li>
+          <b>Change Package Name</b>-
+          <span
+            ><a
+              href="https://stackoverflow.com/questions/51534616/how-to-change-package-name-in-flutter"
+              target="_blank"
+              >https://stackoverflow.com/questions/51534616/how-to-change-package-name-in-flutter</a
+            ></span
+          >
+        </li>
+        <li>
+          <b>Build & Release Android App</b>-
+          <span
+            ><a
+              href="https://flutter.dev/docs/deployment/android"
+              target="_blank"
+              >https://flutter.dev/docs/deployment/android</a
+            ></span
+          >
+        </li>
+        <li>
+          <b>Add new language</b>-
+          <span
+            ><a href="https://docs.google.com/document/d/17xoUHYvJTelsxKf7lVQJlC38QctqnBoO/edit?usp=sharing&ouid=107525648931366898162&rtpof=true&sd=true" target="_blank"
+              >https://docs.google.com/document/d/17xoUHYvJTelsxKf7lVQJlC38QctqnBoO/edit?usp=sharing&ouid=107525648931366898162&rtpof=true&sd=true</a
+            ></span
+          >
+
+        </li>
+      </ul>
+
+      <hr />
+      <h3 id="file">B) Directories & File Uses</h3>
+
+      <p>
+        Our Design uses only assets & lib folder. So, don't touch any other
+        folder for ui changes.
+      </p>
+
+      <ul>
+        <ul>
+          <li>
+            <b>assets(Folder)</b> - Put all Static images & languages file in this folder
+          </li>
+          <img src="img/assets.jpg" />
+          <li>
+            <b>fonts(Folder)</b> - Put all fonts file in this folder
+          </li>
+          <img src="img/fonts.jpg" />
+          <li>
+            <b>languages(Folder)</b> - Put all languages file in this folder
+          </li>
+          <img src="img/languages.jpg" />
+          <li>
+            <b>lib(Folder)</b> - Main folder that contains all the dart code
+          </li>
+          <img src="img/lib.jpg" />
+          <ul>
+            <li>
+              <b>localization(Folder)</b> - Contain localization related file in this folder.
+            </li>
+            <li>
+              <b>screens(Folder)</b> - Contain All App Screens in this folder except <b>main.dart</b>.</li>
+            </li>
+            <li>
+              <b>theme(Folder)</b> - Contain theme (Constant colors, fontsize, textstyle, etc) file in this folder.</li>
+            </li>
+            <li>
+              <b>widget(Folder)</b> - Contain our own created widget file in this folder.</li>
+            </li>
+            <li><b>main.dart</b> - Entry Point of Our App.</li>
+          </ul>
+        </ul>
+      </ul>
+
+      <ul>
+        <li>
+          <b>pubspec.yaml(File)</b> - Specification file (All the package and
+          local assets (Like Images, Fonts, etc.) we use in this application is
+          specify in this file.).
+        </li>
+        <li><b>Packages (Dependencies)</b></li>
+        <img src="img/dependencies.jpg" />
+        <li><b>Assets</b></li>
+        <img src="img/assets_pub.jpg" />
+        <li><b>Fonts</b></li>
+        <img src="img/fonts_pub.jpg" />
+      </ul>
+
+      <hr />
+
+      <h3 id="question">C) Still Have a Question?</h3>
+
+      <p>
+        Please mail us on
+        <span
+          ><b
+            ><a href="mailto:camelcasetechnology@gmail.com"
+              >camelcasetechnology@gmail.com</a
+            ></b
+          ></span
+        >
+      </p>
+
+      <hr />
+
+      <h3 id="contact">D) Contact US</h3>
+
+      <p>
+        If you have any kind of problem with this code then please mail us on
+        <span
+          ><b
+            ><a href="mailto:camelcasetechnology@gmail.com"
+              >camelcasetechnology@gmail.com</a
+            ></b
+          ></span
+        >
+      </p>
+
+      <p>
+        If you have any project in flutter then please contact us. We are
+        experiance flutter developer team and build high quality apps for
+        android and ios.
+      </p>
+      <hr />
+
+      <p>
+        Once again, thank you so much for purchasing this item. As I said at the
+        beginning, I'd be glad to help you if you have any questions relating to
+        this item. No guarantees, but I'll do my best to assist. If you have a
+        more general question relating to the application on Codecanyon, you
+        might consider visiting the forums and asking your question in the "Item
+        Discussion" section.
+      </p>
+    </div>
+
+    <!-- Social profiles -->
+    <footer>
+      <div class="container" style="color: #ffffff">
+        Feel Free To Contact Us
+        <span
+          ><a href="mailto:camelcasetechnology@gmail.com"
+            >camelcasetechnology@gmail.com</a
+          ></span
+        >
+      </div>
+    </footer>
+
+    <!-- Go to top arrow -->
+    <div class="totop">
+      <div class="gototop">
+        <div class="arrowgototop"></div>
+      </div>
+    </div>
+  </body>
+</html>

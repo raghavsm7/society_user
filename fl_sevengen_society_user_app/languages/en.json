@@ -1,0 +1,371 @@
+{
+    "exit_app": {
+        "exit_text": "Press back once again to exit"
+    },
+    "add_complaint": {
+        "personal": "Personal",
+        "community": "Community",
+        "add_complaint": "Add complaint",
+        "submit_complaint": "Submit complaint",
+        "complaint_raised": "Complaint Raised!",
+        "text": "The admin will notified and will get back to you soon",
+        "okay": "Okay",
+        "brief_your_complaint": "Brief your complaint",
+        "complaint_type": "Complaint type",
+        "enter_complaint_type": "Enter complaint type",
+        "attach_photo": "Attach a photo (optional)",
+        "add_image": "Add image",
+        "camera": "Camera",
+        "gallery": "Gallery",
+        "remove": "Remove"
+    },
+    "login": {
+        "login": "Login",
+        "verification_text": "*we will sent OTP for verification",
+        "enter_mobile_number": "Enter mobile number",
+        "please_text": "Hello users please login your account",
+        "LOGIN": "LOGIN"
+    },
+    "otp": {
+        "didnt_recived": "Didn't receive ?",
+        "resend": "resend",
+        "verify": "Verify",
+        "please_wait": "Please wait",
+        "please_text": "Please enter OTP we will sent to you on your mobile no +91 1234567890",
+        "OTP_VERIFICATION": "OTP VERIFICATION"
+    },
+    "register": {
+        "please_text": "Hello users please create your account",
+        "REGISTER": "REGISTER",
+        "register": "Register",
+        "email_address": "Email address",
+        "mobile_number": "Mobile number",
+        "user_name": "User name"
+    },
+    "book_amenities_proceed": {
+        "book_amenity": "Book amenity",
+        "select_dates": "Select Dates",
+        "select_time": "Select Time",
+        "proceed_to_pay": "Proceed to pay",
+        "amount_to_pay": "Amount to pay",
+        "total_day": "Total day",
+        "day": "day",
+        "from": "From",
+        "to": "To",
+        "select_date": "Select date",
+        "paid": "Paid",
+        "maximum_Capacity": "Maximum Capacity",
+        "person": "person",
+        "book_before_least": "Book before at least",
+        "days": "days",
+        "per_day": "per day"
+    },
+    "booked_amenities": {
+        "booked_amenities": "Booked Amenities",
+        "book_amenity": "Book Amenity",
+        "confirmed_by": "Confirmed by",
+        "booked_by": "Booked by",
+        "canceled_by": "Canceled by"
+    },
+    "call": {
+        "calling": "Calling..."
+    },
+    "calling": {
+        "call_gate": "Call gate",
+        "deny": "Deny",
+        "swipe_up": "Swipe up \n to allow",
+        "guest_waiting_gate": "Guest waiting at gate"
+    },
+    "chats": {
+        "chats": "Chats",
+        "residents": "Residents"
+    },
+    "complaint_detail": {
+        "community_complaint": "Community complaint",
+        "complaint_image": "Complaint image",
+        "recent_comments": "Recent Comments",
+        "write_your_comment": "Write your comment",
+        "ago": "ago",
+        "reopen": "Reopen",
+        "mark_as_resolved": "Mark as resolved",
+        "resolved_by": "Resolved by",
+        "raised_by": "Raised by"
+    },
+    "credit_card": {
+        "credit_card": "Credit card",
+        "continue": "Continue",
+        "card_number": "Card number",
+        "enter_card_number": "Enter Card number",
+        "expire_date": "Expire date",
+        "CVV": "CVV",
+        "name_on_card": "Name on card",
+        "enter_name_card": "Enter name on card"
+    },
+    "help_desk": {
+        "personal": "Personal",
+        "community": "Community",
+        "help_desk": "Help desk",
+        "raise_new_complaint": "Raise new complaint",
+        "resolved_by": "Resolved by",
+        "raised_by": "Raised by"
+    },
+    "home": {
+        "members": "Members",
+        "connect_member": "Connect society member",
+        "visitors": "Visitors",
+        "manage_entry": "Manage visitors entry",
+        "notice_board": "Notice Board",
+        "society_announcement": "Society announcement & event notice",
+        "payment": "Payment",
+        "direct_payment_due": "Direct payment of society due",
+        "book_amenities": "Book amenities",
+        "pre_book_amenities": "Pre book society amenities",
+        "help_desk": "Help desk",
+        "complaint_suggestion": "Complaint & suggestion",
+        "community": "Community",
+        "new": "New"
+    },
+    "members": {
+        "members": "Members",
+        "flat_no": "Flat no",
+        "block_no:": "Block no",
+        "call": "Call",
+        "chat": "Chat",
+        "member": "Member",
+        "admin": "Admin",
+        "committee": "Committee"
+    },
+    "messages": {
+        "type_text_here": "Type your text here...."
+    },
+    "notice_board": {
+        "notice_board": "Notice board",
+        "new": "New",
+        "post_by": "Post by"
+    },
+    "notification": {
+        "notification": "Notification",
+        "no_new_notification": "No new notification",
+        "removed_from_notification": "Removed from notification"
+    },
+    "onboarding": {
+        "text_1": "Improve your family safety",
+        "text_2": "Get service staff at  your doorstep",
+        "text_3": "Get notify about event",
+        "get_started": "Get started",
+        "next": "Next"
+    },
+    "payment": {
+        "payment": "Payment",
+        "new": "New",
+        "due_date": "Due date",
+        "receipt": "Receipt",
+        "pay_now": "Pay now"
+    },
+    "payment_method": {
+        "credit_card": "Credit card",
+        "debit_card": "Debit card",
+        "paypal": "Paypal",
+        "visa": "Visa",
+        "pay_cash_to_admin": "Pay cash to admin",
+        "select_payment_method": "Select payment method",
+        "security_deposit": "Security deposit",
+        "continue": "Continue"
+    },
+    "pre_approve_visitor": {
+        "today": "Today",
+        "tomorrow": "Tomorrow",
+        "visitors": "Visitors",
+        "pre_approve_visitors": "Pre approve Visitors",
+        "add_visitor_detail": "Add visitor detail for quick action",
+        "add_guest": "Add Guest",
+        "add_cab": "Add Cab",
+        "add_delivery": "Add Delivery",
+        "add_service": "Add Service",
+        "allow_my_servicesman": "Allow my Servicesman",
+        "serviceman_name": "Serviceman/ company name",
+        "enter_serviceman_name": "Enter Serviceman/company name",
+        "phone_number": "Phone number",
+        "enter_phone_number": "Enter phone number",
+        "to_enter_next": "To enter in next",
+        "allow_my_delivery": "Allow my delivery",
+        "delivery_company_name": "Delivery company name",
+        "select_delivery_company": "Select delivery company",
+        "cancel": "Cancel",
+        "okay": "Okay",
+        "allow_my_cab": "Allow my Cab",
+        "allow_mycab_enter_today_next": "Allow my cab to enter today once in next",
+        "Add_vehicle_no": "Add last 4 digit of vehicle no.",
+        "company_name": "Company name",
+        "select_company_name": "Select company name",
+        "allow_my_guest": "Allow my guest",
+        "guest_name": "Guest name",
+        "enter_guest_name": "Enter guest name",
+        "enter_date": "Enter date",
+        "send_gate_pass_to_guest": "Send gate pass to the guest",
+        "submit": "Submit",
+        "gate_pass": "Gate pass",
+        "guest_at": "Guest at",
+        "entry_code": "Entry code",
+        "show_qr_code": "Show QR code or tell OTP to guard",
+        "share": "Share",
+        "download": "Download"
+    },
+    "edit_profile": {
+        "edit_profile": "Edit profile",
+        "update": "Update",
+        "phone_number": "Phone number",
+        "enter_your_phone_number": "Enter your phone number",
+        "email_address": "Email address",
+        "enter_your_email": "Enter your email",
+        "name": "Name",
+        "enter_your_name": "Enter your name",
+        "add_image": "Add image",
+        "camera": "Camera",
+        "gallery": "Gallery",
+        "remove": "Remove"
+    },
+    "get_support": {
+        "get_support": "Get support",
+        "ask_suggest_improve": "Ask us suggest any way we can improve",
+        "submit_message": "Submit message",
+        "message": "Message",
+        "enter_your_message": "Enter your message",
+        "issue_type": "Issue type",
+        "enter_topic": "Enter topic / issue type"
+    },
+    "language": {
+        "language": "Language",
+        "update": "Update"
+    },
+    "privacy_policy": {
+        "privacy_policy": "Privacy policy"
+    },
+    "profile": {
+        "father": "Father",
+        "mother": "Mother",
+        "son": "Son",
+        "daughter": "Daughter",
+        "wife": "Wife",
+        "profile": "Profile",
+        "my_family": "My family",
+        "add_family_member": "Add family member for quick entry",
+        "daily_help": "Daily help",
+        "add_helper_text": "Add maid, laundry, helper for quick entry",
+        "my_vehicles": "My vehicles",
+        "add_vehicles_text": "Add your vehicles  for quick entry",
+        "frequent_entries": "Frequent Entries",
+        "add_frequent_entries_text": "Add frequent person quick entries",
+        "add": "Add",
+        "household": "Household",
+        "view_profile": "View profile",
+        "flat_no": "Flat no",
+        "block_no": "Block no",
+        "gate_pass": "Gate pass",
+        "guest_at": "Guest at",
+        "entry_code": "Entry code",
+        "show_qr_code": "Show QR code or tell OTP to guard",
+        "share": "Share",
+        "download": "Download",
+        "add_frequent_entries": "Add Frequent entries",
+        "name": "Name",
+        "enter_name": "Enter name",
+        "phone_number": "Phone number",
+        "enter_phone_number": "Enter phone number",
+        "relations": "Relations",
+        "enter_relations": "Enter relations",
+        "add_daily_help": "Add daily help",
+        "vehicle_number": "Vehicle number",
+        "enter_vehicle_number": "Enter vehicle number",
+        "vehicle_model": "Vehicle model",
+        "enter_vehicle_model": "Enter vehicle model",
+        "vehicle_colour": "Vehicle colour",
+        "enter_vehicle_colour": "Enter vehicle colour",
+        "help_type": "Help type",
+        "select_help_type": "Select help type",
+        "add_member": "Add Family member",
+        "select_relations": "Select relations",
+        "send_gate_pass_guest": "Send gate pass to the guest",
+        "cancel": "Cancel",
+        "okay": "Okay",
+        "relation": "Relation",
+        "submit": "Submit",
+        "add_image": "Add image",
+        "camera": "Camera",
+        "gallery": "Gallery",
+        "remove": "Remove"
+    },
+    "settings": {
+        "settings": "Settings",
+        "edit_profile": "Edit profile",
+        "language": "Language",
+        "get_support": "Get support",
+        "terms_and_condition": "Terms & condition",
+        "privacy_policy": "Privacy policy",
+        "logout": "Logout",
+        "logout_text": "Are you sure you want to logout?",
+        "no": "No",
+        "yes": "Yes"
+    },
+    "terms_and_conditions": {
+        "Terms_and_condition": "Terms  & condition"
+    },
+    "search": {
+        "search": "Search",
+        "recent_search": "Recent search",
+        "clear_all": "Clear all"
+    },
+    "select_amenities": {
+        "select_amenity": "Select amenity",
+        "per_day": "per day"
+    },
+    "service": {
+        "service": "Service",
+        "your_booking": "Your Booking",
+        "nearby_service": "Nearby service providers",
+        "book_service_text": "Book for appliance repair",
+        "select_service": "Select service",
+        "book_visit_on": "Book visit on",
+        "select_date": "Select date",
+        "select_time": "Select time",
+        "brief_your_problem": "Brief your problem",
+        "write_your_problem": "Write your problem",
+        "company_name": "Company name",
+        "cancel": "Cancel",
+        "okay": "Okay",
+        "submit": "Submit"
+    },
+    "success": {
+        "payment_successful": "Payment successful !!",
+        "amount_paid": "Amount paid",
+        "paid_on": "Paid on",
+        "paid_via": "Paid via",
+        "transaction_id": "Transaction ID",
+        "back_to_home": "Back to home",
+        "download_receipt": "Download Receipt",
+        "security_deposit": "Security deposit",
+        "paid": "Paid"
+    },
+    "visitors": {
+        "visitors": "Visitors",
+        "no_visitors_yet": "No Visitors Yet!",
+        "delete": "Delete",
+        "removed_from_visitors": "Removed from visitors",
+        "gatepass": "Gatepass",
+        "gate_pass": "Gate pass",
+        "guest_at": "Guest at",
+        "entry_code": "Entry code",
+        "show_qr_code": "Show QR code or tell OTP to guard",
+        "share": "Share",
+        "download": "Download",
+        "pre_approve_visitors": "Pre approve visitors"
+    },
+    "bottom_bar": {
+        "home": "Home",
+        "chats": "Chats",
+        "service": "Service",
+        "profile": "Profile",
+        "send_message": "Send message",
+        "security_alert": "Security Alert"
+    }
+}
