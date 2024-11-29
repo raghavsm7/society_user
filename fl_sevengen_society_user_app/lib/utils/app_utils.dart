@@ -436,16 +436,15 @@ class AppUtils {
 
   //for getting device id
   Future<void> getDeviceID() async {
-    var deviceInfo = DeviceInfoPlugin();
-    if (GetPlatform.isIOS) {
-      // import 'dart:io'
-      var iosDeviceInfo = await deviceInfo.iosInfo;
-      deviceId = iosDeviceInfo.identifierForVendor!; // unique ID on iOS
-    } else if (GetPlatform.isAndroid) {
-      var androidDeviceInfo = await deviceInfo.androidInfo;
-      deviceId = androidDeviceInfo.androidId!; // unique ID on Android
-    }
+  var deviceInfo = DeviceInfoPlugin();
+  if (GetPlatform.isIOS) {
+    var iosDeviceInfo = await deviceInfo.iosInfo;
+    deviceId = iosDeviceInfo.identifierForVendor ?? ''; // unique ID on iOS
+  } else if (GetPlatform.isAndroid) {
+    var androidDeviceInfo = await deviceInfo.androidInfo;
+    deviceId = androidDeviceInfo.id ?? ''; // Changed from androidId to id
   }
+}
 
   // to show text
   Widget textWidget(

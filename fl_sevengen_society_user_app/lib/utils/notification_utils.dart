@@ -48,28 +48,36 @@ class NotificationUtils {
     ///
     /// We use this channel in the `AndroidManifest.xml` file to override the
     /// default FCM channel to enable heads up notifications.
-    await flutterLocalNotificationsPlugin
-        .resolvePlatformSpecificImplementation<AndroidFlutterLocalNotificationsPlugin>()
-        ?.createNotificationChannel(channel);
+   await flutterLocalNotificationsPlugin
+      .resolvePlatformSpecificImplementation<AndroidFlutterLocalNotificationsPlugin>()
+      ?.createNotificationChannel(channel);
 
     /// Note: permissions aren't requested here just to demonstrate that can be
     /// done later
-    const IOSInitializationSettings initializationSettingsIOS =
-        IOSInitializationSettings();
+    final DarwinInitializationSettings initializationSettingsIOS = 
+      DarwinInitializationSettings(
+        requestAlertPermission: true,
+        requestBadgePermission: true,
+        requestSoundPermission: true,
+      );
 
-    const InitializationSettings initializationSettings = InitializationSettings(
-      android: AndroidInitializationSettings("@mipmap/ic_launcher"),
-      iOS: initializationSettingsIOS,
-    );
-    await flutterLocalNotificationsPlugin.initialize(initializationSettings,
-        onSelectNotification: (String? payload) async {
-      PushNotificationModel pushNotificationModel =
-          PushNotificationModel.fromJson(json.decode(payload ?? ""));
-      LogUtils.printLog(
-          tag: "PushNotification -- onSelectNotification",
-          message: "${pushNotificationModel.toJson()}");
-// flutterLocalNotificationsPlugin.cancelAll();
-    });
+    final InitializationSettings initializationSettings = InitializationSettings(
+    android: AndroidInitializationSettings("@mipmap/ic_launcher"),
+    iOS: initializationSettingsIOS,
+  );
+    await flutterLocalNotificationsPlugin.initialize(
+    initializationSettings,
+    onDidReceiveNotificationResponse: (NotificationResponse response) async {
+      final String? payload = response.payload;
+      if (payload != null) {
+        PushNotificationModel pushNotificationModel =
+            PushNotificationModel.fromJson(json.decode(payload));
+        LogUtils.printLog(
+            tag: "PushNotification -- onSelectNotification",
+            message: "${pushNotificationModel.toJson()}");
+      }
+    },
+  );
 
     flutterLocalNotificationsPlugin
         .resolvePlatformSpecificImplementation<IOSFlutterLocalNotificationsPlugin>()

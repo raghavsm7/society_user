@@ -5,8 +5,8 @@
 import FlutterMacOS
 import Foundation
 
-import connectivity_plus_macos
-import device_info_plus_macos
+import connectivity_plus
+import device_info_plus
 import file_selector_macos
 import firebase_core
 import firebase_messaging
