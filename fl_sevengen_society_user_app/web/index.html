@@ -12,32 +12,54 @@
   <link rel="icon" type="image/png" href="favicon.png"/>
   <title>fl_sevengen_society_user_app</title>
   <link rel="manifest" href="manifest.json">
+  
   <script>
-    var serviceWorkerVersion = null;
+    const serviceWorkerVersion = '{{flutter_service_worker_version}}';
   </script>
+  
+  <!-- Firebase SDK -->
+  <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-messaging-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-analytics-compat.js"></script>
+  
   <script src="flutter.js" defer></script>
 </head>
 <body>
-  <!-- Add Firebase SDKs -->
-  <script src="https://www.gstatic.com/firebasejs/9.x.x/firebase-app.js"></script>
-  <script src="https://www.gstatic.com/firebasejs/9.x.x/firebase-messaging.js"></script>
-  
-  <!-- Your Firebase config -->
-  <script src="firebase-config.js"></script>
-  
   <script>
     window.addEventListener('load', function(ev) {
-      _flutter.loader.loadEntrypoint({
+      _flutter.loader.load({
         serviceWorker: {
           serviceWorkerVersion: serviceWorkerVersion,
-        },
-        onEntrypointLoaded: function(engineInitializer) {
-          engineInitializer.initializeEngine().then(function(appRunner) {
-            appRunner.runApp();
-          });
         }
       });
     });
+  </script>
+  
+  <script>
+    // Your web app's Firebase configuration
+    const firebaseConfig = {
+      apiKey: 'AIzaSyDGgDmipEcAsgKEfz67cAjcm8dFZ_PHe30',
+      appId: '1:806838503582:web:ca67e555a3af97733ed38f',
+      messagingSenderId: '806838503582',
+      projectId: 'my-gate-user',
+      authDomain: 'my-gate-user.firebaseapp.com',
+      storageBucket: 'my-gate-user.appspot.com',
+      measurementId: 'G-QSCH67LTTR',
+    };
+
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+    const messaging = firebase.messaging();
+
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/firebase-messaging-sw.js')
+        .then(function(registration) {
+          messaging.useServiceWorker(registration);
+        })
+        .catch(function(err) {
+          console.log('Service worker registration failed, error:', err);
+        });
+    }
   </script>
 </body>
 </html>
