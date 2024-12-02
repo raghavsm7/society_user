@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 class SplashPage extends BaseWidget {
-  SplashPage({super.key});
+  const SplashPage({super.key});
 
 
 /*  @override

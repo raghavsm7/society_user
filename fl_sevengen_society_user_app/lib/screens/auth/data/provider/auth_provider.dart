@@ -2,7 +2,6 @@ import 'package:fl_sevengen_society_user_app/common/data/model/common_response_m
 import 'package:fl_sevengen_society_user_app/constants/end_point_constants.dart';
 import 'package:fl_sevengen_society_user_app/screens/auth/data/model/auth_response_model.dart';
 import 'package:fl_sevengen_society_user_app/service/api.dart';
-import 'package:get/get.dart';
 
 class AuthProvider extends ApiServiceProvider {
   //api call send OTP

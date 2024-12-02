@@ -55,14 +55,14 @@ class NotificationUtils {
     /// Note: permissions aren't requested here just to demonstrate that can be
     /// done later
     final DarwinInitializationSettings initializationSettingsIOS = 
-      DarwinInitializationSettings(
+      const DarwinInitializationSettings(
         requestAlertPermission: true,
         requestBadgePermission: true,
         requestSoundPermission: true,
       );
 
     final InitializationSettings initializationSettings = InitializationSettings(
-    android: AndroidInitializationSettings("@mipmap/ic_launcher"),
+    android: const AndroidInitializationSettings("@mipmap/ic_launcher"),
     iOS: initializationSettingsIOS,
   );
     await flutterLocalNotificationsPlugin.initialize(

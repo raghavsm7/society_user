@@ -12,7 +12,6 @@ import 'package:fl_sevengen_society_user_app/utils/app_utils.dart';
 import 'package:fl_sevengen_society_user_app/utils/app_validator.dart';
 import 'package:fl_sevengen_society_user_app/utils/network_utils.dart';
 import 'package:fl_sevengen_society_user_app/widgets/common_widgets.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get/get_connect/http/src/status/http_status.dart';

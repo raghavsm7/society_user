@@ -75,7 +75,7 @@ abstract class ApiServiceProvider extends GetConnect {
       LogUtils.printLog(
           tag: url,
           message:
-              result.status.code.toString() + " " + result.body.toString());
+              "${result.status.code} ${result.body}");
       if (result.status.isUnauthorized) {
         // handle non authentication case;
         //clear storage
@@ -112,9 +112,7 @@ abstract class ApiServiceProvider extends GetConnect {
           uploadProgress: uploadProgress);
       LogUtils.printLog(
           tag: url,
-          message: result.status.code.toString() +
-              " " +
-              (result.body ?? "").toString());
+          message: "${result.status.code} ${result.body ?? ""}");
 
       if (result.status.isUnauthorized) {
         // handle non authentication case;
@@ -156,7 +154,7 @@ abstract class ApiServiceProvider extends GetConnect {
       LogUtils.printLog(
           tag: url,
           message:
-              result.status.code.toString() + " " + result.body.toString());
+              "${result.status.code} ${result.body}");
       if (result.status.isUnauthorized) {
         // handle non authentication case;
         //clear storage
@@ -226,7 +224,7 @@ abstract class ApiServiceProvider extends GetConnect {
       LogUtils.printLog(
           tag: url,
           message:
-              result.status.code.toString() + " " + result.body.toString());
+              "${result.status.code} ${result.body}");
       if (result.status.isUnauthorized) {
         // handle non authentication case;
         //clear storage

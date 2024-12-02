@@ -14,7 +14,6 @@ import 'package:fl_sevengen_society_user_app/utils/network_utils.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:get/get_utils/src/get_utils/get_utils.dart';
 
 class AddComplaintController extends BaseController {
   late PostProvider _postProvider;

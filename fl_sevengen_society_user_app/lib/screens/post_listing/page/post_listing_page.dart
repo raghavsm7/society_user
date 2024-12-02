@@ -18,7 +18,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 class PostListingPage extends BaseWidget {
-  PostListingPage({super.key});
+  const PostListingPage({super.key});
 
   @override
   Widget build(BuildContext context) {

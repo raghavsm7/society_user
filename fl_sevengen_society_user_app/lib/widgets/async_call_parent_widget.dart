@@ -30,7 +30,7 @@ class ModalProgressHUD extends StatelessWidget {
   final Widget child;
 
   const ModalProgressHUD({
-    Key? key,
+    super.key,
     required this.inAsyncCall,
     this.opacity = 0.8,
     this.color = Colors.white,
@@ -38,7 +38,7 @@ class ModalProgressHUD extends StatelessWidget {
     this.offset,
     this.dismissible = false,
     required this.child,
-  })  : super(key: key);
+  });
 
   @override
   Widget build(BuildContext context) {

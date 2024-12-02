@@ -12,7 +12,7 @@ import '../../../constants/dimens.dart';
 import '../../../widgets/async_call_parent_widget.dart';
 
 class NoticeBoardPage extends BaseWidget {
-  NoticeBoardPage({super.key});
+  const NoticeBoardPage({super.key});
 
   @override
   Widget build(BuildContext context) {
